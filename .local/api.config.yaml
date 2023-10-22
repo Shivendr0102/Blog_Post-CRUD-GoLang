@@ -1,0 +1,12 @@
+IsProduction: false
+Port: 8080
+AllowHttp: true
+AllowedOrigins:
+  - '*'
+
+SqlServer:
+  URL: xxxxxxxxx
+  Port: 0000
+  DBName: xxxx
+  Username: xx
+  Password: xxxxxxx
